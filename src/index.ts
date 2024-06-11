@@ -1,4 +1,5 @@
 let age: number = 20 
-console.log   it(age)
+console.log (age)
 
+const firstname: string = '9'
 // consolelog ('Hello world')
