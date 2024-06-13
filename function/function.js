@@ -5,8 +5,8 @@
 // const subNumber = ()=>{
 // }
 //  const divNumber = ((name, callback) =>{
-//  })
-var data = function (a, b) {
-    return a + b;
+//  })  
+var data = function (r, b) {
+    return r + b;
 };
 console.log(data(2, 4));

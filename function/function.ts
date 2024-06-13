@@ -11,8 +11,8 @@
 
 //  })  
 
- const data = (a, b) =>{
-    return a + b
+ const data = (r, b) =>{
+    return r + b
  }
  console.log (data(2,4))
  
