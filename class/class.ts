@@ -10,3 +10,4 @@ class Human {
         this.age = age;
         this.isHuman = isHuman;
 }
+}
