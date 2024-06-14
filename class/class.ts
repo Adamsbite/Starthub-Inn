@@ -15,7 +15,7 @@ class Human {
 
   //   this is a function
   person() {
-    return (
+    return ( 
       "Hi my name is " +
       this.name +
       " and i am a " +
