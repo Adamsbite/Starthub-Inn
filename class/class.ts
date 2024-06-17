@@ -13,6 +13,7 @@ class Human {
     this.isHuman = isHuman;
   }
 
+  
   //   this is a function
   person() {
     return ( 
